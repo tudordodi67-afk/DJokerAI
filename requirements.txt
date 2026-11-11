@@ -1,0 +1,11 @@
+PySide6
+requests
+beautifulsoup4
+psutil
+pillow
+SpeechRecognition
+pyttsx3
+keyboard
+pyautogui
+python-dotenv
+ollama

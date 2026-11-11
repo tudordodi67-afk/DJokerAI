@@ -1,0 +1,37 @@
+[
+    {
+        "subject": "drama",
+        "relation": "is",
+        "object": "leader of 300X."
+    },
+    {
+        "subject": "drama",
+        "relation": "leader",
+        "object": "300X."
+    },
+    {
+        "subject": "300x.",
+        "relation": "leader",
+        "object": "Drama"
+    },
+    {
+        "subject": "drama",
+        "relation": "from",
+        "object": "Turkey"
+    },
+    {
+        "subject": "where",
+        "relation": "is",
+        "object": "Drama from?"
+    },
+    {
+        "subject": "drama",
+        "relation": "from",
+        "object": "Turkey."
+    },
+    {
+        "subject": "where",
+        "relation": "is",
+        "object": "Drama?"
+    }
+]
